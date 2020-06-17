@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-17T12:46:33 PDT" name="POMFRAMEWORK TestSuite" finished-at="2020-06-17T12:47:37 PDT" duration-ms="64192">
+    <groups>
+    </groups>
+    <test started-at="2020-06-17T12:46:33 PDT" name="TekArch application Testcases" finished-at="2020-06-17T12:47:37 PDT" duration-ms="64192">
+      <class name="com.tekarch.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tekarch.qa.testcases.LoginPageTest@769e7ee8]" started-at="2020-06-17T12:46:33 PDT" name="setUp" finished-at="2020-06-17T12:46:42 PDT" duration-ms="8864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.tekarch.qa.testcases.LoginPageTest@769e7ee8]" started-at="2020-06-17T12:46:42 PDT" name="loginTest" finished-at="2020-06-17T12:46:43 PDT" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tekarch.qa.testcases.LoginPageTest@769e7ee8]" started-at="2020-06-17T12:46:43 PDT" name="teardown" finished-at="2020-06-17T12:46:44 PDT" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tekarch.qa.testcases.LoginPageTest -->
+      <class name="com.tekarch.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:46:44 PDT" name="setUp" finished-at="2020-06-17T12:46:56 PDT" duration-ms="12851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyhomepagetitleTest()[pri:1, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:46:56 PDT" name="verifyhomepagetitleTest" finished-at="2020-06-17T12:46:57 PDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepagetitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:46:57 PDT" name="teardown" finished-at="2020-06-17T12:46:57 PDT" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:46:57 PDT" name="setUp" finished-at="2020-06-17T12:47:06 PDT" duration-ms="8708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verfifyCalculatorpage()[pri:2, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:47:06 PDT" name="verfifyCalculatorpage" finished-at="2020-06-17T12:47:07 PDT" duration-ms="1145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfifyCalculatorpage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:47:07 PDT" name="teardown" finished-at="2020-06-17T12:47:08 PDT" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:47:08 PDT" name="setUp" finished-at="2020-06-17T12:47:16 PDT" duration-ms="7745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyfileuploadpage()[pri:3, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:47:16 PDT" name="verifyfileuploadpage" finished-at="2020-06-17T12:47:17 PDT" duration-ms="1417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfileuploadpage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tekarch.qa.testcases.HomePageTest@5276e6b0]" started-at="2020-06-17T12:47:17 PDT" name="teardown" finished-at="2020-06-17T12:47:18 PDT" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tekarch.qa.testcases.HomePageTest -->
+      <class name="com.tekarch.qa.testcases.CalculatorPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tekarch.qa.testcases.CalculatorPageTest@71b1176b]" started-at="2020-06-17T12:47:18 PDT" name="setUp" finished-at="2020-06-17T12:47:27 PDT" duration-ms="8588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifycalculatorinput1()[pri:1, instance:com.tekarch.qa.testcases.CalculatorPageTest@71b1176b]" started-at="2020-06-17T12:47:27 PDT" name="verifycalculatorinput1" finished-at="2020-06-17T12:47:27 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycalculatorinput1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tekarch.qa.testcases.CalculatorPageTest@71b1176b]" started-at="2020-06-17T12:47:27 PDT" name="teardown" finished-at="2020-06-17T12:47:27 PDT" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tekarch.qa.testcases.CalculatorPageTest@71b1176b]" started-at="2020-06-17T12:47:27 PDT" name="setUp" finished-at="2020-06-17T12:47:36 PDT" duration-ms="9200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifycalculatorinput5()[pri:2, instance:com.tekarch.qa.testcases.CalculatorPageTest@71b1176b]" started-at="2020-06-17T12:47:36 PDT" name="verifycalculatorinput5" finished-at="2020-06-17T12:47:36 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycalculatorinput5 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tekarch.qa.testcases.CalculatorPageTest@71b1176b]" started-at="2020-06-17T12:47:36 PDT" name="teardown" finished-at="2020-06-17T12:47:37 PDT" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tekarch.qa.testcases.CalculatorPageTest -->
+    </test> <!-- TekArch application Testcases -->
+  </suite> <!-- POMFRAMEWORK TestSuite -->
+</testng-results>

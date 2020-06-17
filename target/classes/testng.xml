@@ -1,0 +1,9 @@
+<suite name="POMFRAMEWORK TestSuite">
+ <test name="TekArch application Testcases">
+ <classes>
+ <class name="com.tekarch.qa.testcases.LoginPageTest" />
+ <class name="com.tekarch.qa.testcases.HomePageTest" />
+ <class name="com.tekarch.qa.testcases.CalculatorPageTest" />
+ </classes>
+ </test>
+</suite>
